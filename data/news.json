@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "El Futuro de la IA en los Negocios",
+    "date": "2024-03-15",
+    "summary": "Descubre cómo la inteligencia artificial está revolucionando la optimización de procesos empresariales y la toma de decisiones estratégicas.",
+    "links": "#"
+  },
+  {
+    "id": 2,
+    "title": "Ciberseguridad: Prioridad 2024",
+    "date": "2024-03-10",
+    "summary": "Nuevas amenazas requieren nuevas soluciones. Analizamos las mejores prácticas para proteger los activos digitales de su empresa.",
+    "links": "#"
+  },
+  {
+    "id": 3,
+    "title": "Migración a la Nube Eficiente",
+    "date": "2024-03-05",
+    "summary": "Estrategias clave para migrar sus sistemas legacy a la nube sin interrupciones en el servicio y maximizando el ROI.",
+    "links": "#"
+  }
+]
